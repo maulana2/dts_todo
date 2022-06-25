@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dts_todo/static/css/main.e51cec19.css",
+    "main.js": "/dts_todo/static/js/main.64d9c6e1.js",
+    "static/js/787.5eba1a07.chunk.js": "/dts_todo/static/js/787.5eba1a07.chunk.js",
+    "index.html": "/dts_todo/index.html",
+    "main.e51cec19.css.map": "/dts_todo/static/css/main.e51cec19.css.map",
+    "main.64d9c6e1.js.map": "/dts_todo/static/js/main.64d9c6e1.js.map",
+    "787.5eba1a07.chunk.js.map": "/dts_todo/static/js/787.5eba1a07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e51cec19.css",
+    "static/js/main.64d9c6e1.js"
+  ]
+}
